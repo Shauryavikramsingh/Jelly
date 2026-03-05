@@ -1,5 +1,5 @@
-# 🍮 Jelly: The Lost Adventure
-**A game project by Shaurya Vikram Singh & Veer Vikram Singh**
+ # 🍮 Jelly: The Lost Adventure
+**A game project by Shaurya Vikram Singh & Veer Vikram Singh**        -DOWNLOAD EXTRACT RUN JELLY.HTML NOW!
 
 ## 📖 The Story
 Jelly is a physics-based platformer about a tiny, wobbly hero who got separated from the pack in a giant, dangerous kitchen. 
